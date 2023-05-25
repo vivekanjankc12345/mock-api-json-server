@@ -6,26 +6,37 @@
       "id":1,
       "username":"vivek",
       "email":"vivek@gmail.com",
-      "password":123456
+      "password":123456,
+      "doctor":"yes"
     },
     {
       "id":2,
       "username":"ashu",
       "email":"ashu@gmail.com",
-      "password":123456
+      "password":123456,
+      "doctor":"no"
     }
   ],
-  "book":[
+  "appointments":[
     {
-      "id":1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "name": "Jane Doe",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Dermatologist",
+      "experience": 10,
+      "location": "Los Angeles",
+      "date": "2023-04-05T12:00:00.000Z",
+      "slots": 2,
+      "fee": 150
+    },
+    {
+      "name": "Mark Johnson",
+      "image": "https://example.com/doctor-image.jpg",
+      "specialization": "Pediatrician",
+      "experience": 5,
+      "location": "Chicago",
+      "date": "2023-04-06T09:30:00.000Z",
+      "slots": 1,
+      "fee": 100
     }
   ]
   
