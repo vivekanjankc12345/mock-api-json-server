@@ -4,30 +4,20 @@
   "users":[
     {
       "id":1,
-      "username":"vivek",
+      "fullname":"vivek",
       "email":"vivek@gmail.com",
-      "password":123456,
-          "avatar":"https://tse3.mm.bing.net/th?id=OIP._4sghx-xvYKRIs04jyfR4gHaGJ&pid=Api&P=0&h=180"
+      "password":123456
+         
     },
     {
       "id":2,
-      "username":"ashu",
+      "fullname":"ashu",
       "email":"ashu@gmail.com",
-      "password":123456,
-      "avatar":"https://tse3.mm.bing.net/th?id=OIP._4sghx-xvYKRIs04jyfR4gHaGJ&pid=Api&P=0&h=180"
-    }
-  ],
-  "fourm":[
-    {
-      "id":1,
-      "userAvatar": "user_avatar.png",
-    "username": "JohnDoe123",
-    "questionTitle": "How to sort an array in JavaScript?",
-    "questionDescription": "I'm struggling with sorting an array in JavaScript. Can someone please provide guidance?",
-    "language": "JavaScript",
-    "postedDate": "2023-05-30"
+      "password":123456
+     
     }
   ]
+ 
  
   
  
